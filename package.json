@@ -1,0 +1,19 @@
+{
+  "name": "algorithms_and_data_structures",
+  "version": "1.0.0",
+  "description": "Basic implementation of some algorithms and data structures",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniodcorrea/algorithms-and-data-structures.git"
+  },
+  "keywords": [],
+  "author": "Antonio Díaz Correa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antoniodcorrea/algorithms-and-data-structures/issues"
+  },
+  "homepage": "https://github.com/antoniodcorrea/algorithms-and-data-structures#readme"
+}
