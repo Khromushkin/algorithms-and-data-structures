@@ -15,8 +15,8 @@ const QuickSort = function(array) {
         }
     }
 
-    left = quicksort(left);
-    right = quicksort(right);
+    left = QuickSort(left);
+    right = QuickSort(right);
 
     return left.concat(pivot, right);
 };
